@@ -1,0 +1,20 @@
+{
+  "name": "learning_prog_3-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "index2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milsan90/learning_prog_3.git"
+  },
+  "author": "Milsan90",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Milsan90/learning_prog_3/issues"
+  },
+  "homepage": "https://github.com/Milsan90/learning_prog_3#readme"
+}
